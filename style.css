@@ -97,11 +97,8 @@ a{
     input{
         width: 200px;
     }
-    body{
-        width: 400px;
-    }
     .country-container{
-        margin-left: -25px!important;
+        margin-left: 25px!important;
     }
     .details{
         flex-direction: column!important;
